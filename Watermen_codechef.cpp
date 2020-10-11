@@ -7,7 +7,7 @@ int main() {
     while(T--)
     {
         int n;
-        int sum = 0;
+        int sum = 0; //this is code is written to test the github platform.
         cin>>n;
         int x;
         for(int i = 0;i<n;++i)
