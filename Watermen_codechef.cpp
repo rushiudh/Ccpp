@@ -7,12 +7,12 @@ int main() {
     while(T--)
     {
         int n;
-        int sum =0;
+        int sum = 0;
         cin>>n;
         int x;
         for(int i = 0;i<n;++i)
         {
-            cin>>x;  
+            cin>>x;
             sum = sum + x;
         }
         if(sum >=0)
